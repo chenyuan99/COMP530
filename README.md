@@ -1,7 +1,6 @@
-# COMP530
+# COMP530 DATABASE SYSTEM IMPLEMENTATION
 
 COMP 530 001 (CRN: 25401)
-DATABASE SYSTEM IMPLEMENTATION
 Long Title: DATABASE SYSTEM IMPLEMENTATION
 Department: Computer Science
 Instructor: Jermaine, Christopher M.
@@ -27,3 +26,5 @@ Additional Fees: None
 Final Exam: No Final Exam
  
 Description: This course covers database management system architecture, query processing and optimization, transaction processing, concurrent control and recover, storage, indexing structures and related topics. Students will build a database system from the ground up. Graduate students who have not had an introductory database course should enroll for 4 credits: all others should enroll for 3 credits.
+
+Reference: https://github.com/BenDing96/COMP530
